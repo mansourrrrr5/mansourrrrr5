@@ -34,7 +34,7 @@
 ### 🌍 Connect With Me
 
 <p align="left">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mohamed-aziz-mansour-5a39b2278/)" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mohamed-aziz-mansour-5a39b2278/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:your@email.com">
